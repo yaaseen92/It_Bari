@@ -13,5 +13,6 @@ body{
 .main .child{
     display: flex;
     justify-content: end;
+    flex-direction: column;
     align-items: end;
 }
