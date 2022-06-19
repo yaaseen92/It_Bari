@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+    /* height: 100%; */
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    background-color: aquamarine;
+}
+.main .child{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
